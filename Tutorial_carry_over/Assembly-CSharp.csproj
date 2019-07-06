@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Fps_cam_look.cs" />
+    <Compile Include="Assets\Grabbable_object.cs" />
     <Compile Include="Assets\player_movement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Alden Towler/Desktop/Unity projects/Logic-Puzzle-Game/Tutorial_carry_over/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
